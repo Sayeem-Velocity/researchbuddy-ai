@@ -11,10 +11,7 @@ ResearchBuddy AI is a Streamlit-based web application designed to assist users i
 [Launch ResearchBuddy AI](https://researchbuddy-ai.streamlit.app/)
 
 ## Demo:
-<video controls>
-  <source src="img/ResearchBuddy_AI.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo](img/ResearchBuddy_AI.gif)
 
 ## How It Works:
 
