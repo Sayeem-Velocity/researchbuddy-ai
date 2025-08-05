@@ -8,14 +8,17 @@ ResearchBuddy AI is a Streamlit-based web application designed to assist users i
 
 ## Demo App
 
-[Launch ResearchBuddy AI](https://researchbuddy-ai.streamlit.app/)
+[Launch ResearchBuddy AI](https://sayeem-velocity-researchbuddy-ai-app-vmst8m.streamlit.app/)
 
 ## Demo:
-![Demo: Chatbot Output](img/ResearchBuddy%20AI.mp4)
+<video controls>
+  <source src="img/ResearchBuddy%20AI.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## How It Works:
 
-![ResearchBuddy AI Architecture](img/architecture.png)
+![ResearchBuddy AI Architecture](img/Architecture.jpg)
 
 The application follows these steps to provide responses to your questions:
 
